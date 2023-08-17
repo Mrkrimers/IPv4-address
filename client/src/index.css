@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-style: normal;
+}
+
+body {
+  background: #4B81A0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 100px;
+  color: #FFF;
+  font: 600 50px Montserrat;
+  text-transform: uppercase;
+}
+
+p {
+  color: #FFF;
+  font: 600 20px Montserrat;
+  line-height: normal;
+  text-transform: uppercase;
+}
